@@ -56,18 +56,9 @@ A basic Electron application needs just these files:
 
 You can learn more about each of these components in depth within the [Tutorial](https://electronjs.org/docs/latest/tutorial/tutorial-prerequisites).
 
-## To Use
-Make sure your verison is below 16.0.3 of nodejs for testing purpose, productions process will not create any problem.
-To clone and run this repository you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
 
-```bash
-# Clone this repository
-git clone https://github.com/neel0086/AdvanceIDE.git
-# Install dependencies
-npm install
-# Run the app
-npm run dev
-```
+
+
 
 
 
